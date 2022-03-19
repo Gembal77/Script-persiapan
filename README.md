@@ -7,8 +7,6 @@ $. pkg install libcurl
 $ pip2 install –upgrade pip  
 $ pkg install toilet  
 $ pkg install figlet  
-$ git clone https://github.com/Gembal77/start-py
-
 $ pip2 install lolcat  
 $ pip2 install mechanize  
 $ pip2 install bs4  
@@ -24,4 +22,6 @@ $ termux-setup-storage
 $ python2 mbf.py  
 $ python2 Mcrack.py  
 $ sh requests.sh
+
+https://github.com/Gembal77/start-py
 

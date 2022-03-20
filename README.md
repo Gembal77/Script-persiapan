@@ -1,6 +1,7 @@
 # Script-persiapan
 
-$ apt update &amp;&amp; apt upgrade  
+$ apt update &amp;&amp; apt upgrade
+$ pkg install python 
 $ pkg install python2  
 $ pkg install git  
 $. pkg install libcurl  
